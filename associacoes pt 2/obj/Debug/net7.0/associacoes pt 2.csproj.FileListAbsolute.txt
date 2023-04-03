@@ -1,0 +1,15 @@
+C:\Users\Gustavo\Desktop\Facul ULBRA\ULBRA-2023-3\Orientação a Objetos\associacoes c#\associacoes pt 2\obj\Debug\net7.0\associacoes pt 2.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\Facul ULBRA\ULBRA-2023-3\Orientação a Objetos\associacoes c#\associacoes pt 2\obj\Debug\net7.0\associacoes pt 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\Facul ULBRA\ULBRA-2023-3\Orientação a Objetos\associacoes c#\associacoes pt 2\obj\Debug\net7.0\associacoes pt 2.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\Facul ULBRA\ULBRA-2023-3\Orientação a Objetos\associacoes c#\associacoes pt 2\obj\Debug\net7.0\associacoes pt 2.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\Facul ULBRA\ULBRA-2023-3\Orientação a Objetos\associacoes c#\associacoes pt 2\obj\Debug\net7.0\associacoes pt 2.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Facul ULBRA\ULBRA-2023-3\Orientação a Objetos\associacoes c#\associacoes pt 2\bin\Debug\net7.0\associacoes pt 2.exe
+C:\Users\Gustavo\Desktop\Facul ULBRA\ULBRA-2023-3\Orientação a Objetos\associacoes c#\associacoes pt 2\bin\Debug\net7.0\associacoes pt 2.deps.json
+C:\Users\Gustavo\Desktop\Facul ULBRA\ULBRA-2023-3\Orientação a Objetos\associacoes c#\associacoes pt 2\bin\Debug\net7.0\associacoes pt 2.runtimeconfig.json
+C:\Users\Gustavo\Desktop\Facul ULBRA\ULBRA-2023-3\Orientação a Objetos\associacoes c#\associacoes pt 2\bin\Debug\net7.0\associacoes pt 2.dll
+C:\Users\Gustavo\Desktop\Facul ULBRA\ULBRA-2023-3\Orientação a Objetos\associacoes c#\associacoes pt 2\bin\Debug\net7.0\associacoes pt 2.pdb
+C:\Users\Gustavo\Desktop\Facul ULBRA\ULBRA-2023-3\Orientação a Objetos\associacoes c#\associacoes pt 2\obj\Debug\net7.0\associacoes pt 2.dll
+C:\Users\Gustavo\Desktop\Facul ULBRA\ULBRA-2023-3\Orientação a Objetos\associacoes c#\associacoes pt 2\obj\Debug\net7.0\refint\associacoes pt 2.dll
+C:\Users\Gustavo\Desktop\Facul ULBRA\ULBRA-2023-3\Orientação a Objetos\associacoes c#\associacoes pt 2\obj\Debug\net7.0\associacoes pt 2.pdb
+C:\Users\Gustavo\Desktop\Facul ULBRA\ULBRA-2023-3\Orientação a Objetos\associacoes c#\associacoes pt 2\obj\Debug\net7.0\associacoes pt 2.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\Facul ULBRA\ULBRA-2023-3\Orientação a Objetos\associacoes c#\associacoes pt 2\obj\Debug\net7.0\ref\associacoes pt 2.dll
